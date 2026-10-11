@@ -1,4 +1,4 @@
-# 🖥️ Teerth-Rakshak — AI Crowd Monitoring Dashboard
+# 🖥️ AI Crowd Monitoring Dashboard
 
 > 🏆 Smart India Hackathon 2025 Winning Solution
 
